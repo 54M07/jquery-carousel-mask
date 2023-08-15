@@ -1,7 +1,5 @@
 # EBAC Motors
 
-![EBAC Motors Logo]
-
 Este é o repositório do site da EBAC Motors, uma concessionária virtual de veículos. O projeto foi desenvolvido como parte de um exercício para aprender HTML, CSS e JavaScript.
 
 ## Visão Geral
